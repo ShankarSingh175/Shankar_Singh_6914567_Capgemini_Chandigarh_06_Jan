@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/bin/Debug/net8.0/ProductOfMaxAndMin
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/bin/Debug/net8.0/ProductOfMaxAndMin.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/bin/Debug/net8.0/ProductOfMaxAndMin.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/bin/Debug/net8.0/ProductOfMaxAndMin.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/bin/Debug/net8.0/ProductOfMaxAndMin.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/refint/ProductOfMaxAndMin.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ProductOfMaxAndMin.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/ProductOfMaxAndMin/obj/Debug/net8.0/ref/ProductOfMaxAndMin.dll

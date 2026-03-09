@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/bin/Debug/net8.0/NumberOfCouples
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/bin/Debug/net8.0/NumberOfCouples.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/bin/Debug/net8.0/NumberOfCouples.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/bin/Debug/net8.0/NumberOfCouples.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/bin/Debug/net8.0/NumberOfCouples.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/refint/NumberOfCouples.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/NumberOfCouples.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/NumberOfCouples/obj/Debug/net8.0/ref/NumberOfCouples.dll

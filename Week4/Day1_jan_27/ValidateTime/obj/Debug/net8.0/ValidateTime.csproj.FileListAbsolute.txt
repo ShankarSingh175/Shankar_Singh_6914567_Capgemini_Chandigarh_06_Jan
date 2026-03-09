@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/bin/Debug/net8.0/ValidateTime
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/bin/Debug/net8.0/ValidateTime.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/bin/Debug/net8.0/ValidateTime.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/bin/Debug/net8.0/ValidateTime.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/bin/Debug/net8.0/ValidateTime.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/refint/ValidateTime.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ValidateTime.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/ValidateTime/obj/Debug/net8.0/ref/ValidateTime.dll

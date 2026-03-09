@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/bin/Debug/net8.0/Palindrome
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/bin/Debug/net8.0/Palindrome.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/bin/Debug/net8.0/Palindrome.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/bin/Debug/net8.0/Palindrome.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/bin/Debug/net8.0/Palindrome.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/refint/Palindrome.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/Palindrome.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/Palindrome/obj/Debug/net8.0/ref/Palindrome.dll

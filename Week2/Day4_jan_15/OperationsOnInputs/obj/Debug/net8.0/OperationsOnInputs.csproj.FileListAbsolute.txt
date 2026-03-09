@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/bin/Debug/net8.0/OperationsOnInputs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/bin/Debug/net8.0/OperationsOnInputs.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/bin/Debug/net8.0/OperationsOnInputs.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/bin/Debug/net8.0/OperationsOnInputs.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/bin/Debug/net8.0/OperationsOnInputs.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/refint/OperationsOnInputs.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/OperationsOnInputs.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/OperationsOnInputs/obj/Debug/net8.0/ref/OperationsOnInputs.dll

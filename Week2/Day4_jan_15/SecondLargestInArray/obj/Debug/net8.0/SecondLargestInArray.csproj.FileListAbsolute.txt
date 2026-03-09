@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/bin/Debug/net8.0/SecondLargestInArray
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/bin/Debug/net8.0/SecondLargestInArray.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/bin/Debug/net8.0/SecondLargestInArray.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/bin/Debug/net8.0/SecondLargestInArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/bin/Debug/net8.0/SecondLargestInArray.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/refint/SecondLargestInArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/SecondLargestInArray.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SecondLargestInArray/obj/Debug/net8.0/ref/SecondLargestInArray.dll

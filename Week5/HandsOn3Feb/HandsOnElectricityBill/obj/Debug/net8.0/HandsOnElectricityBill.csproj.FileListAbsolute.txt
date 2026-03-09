@@ -1,0 +1,15 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/bin/Debug/net8.0/HandsOnElectricityBill
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/bin/Debug/net8.0/HandsOnElectricityBill.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/bin/Debug/net8.0/HandsOnElectricityBill.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/bin/Debug/net8.0/HandsOnElectricityBill.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/bin/Debug/net8.0/HandsOnElectricityBill.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/refint/HandsOnElectricityBill.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/HandsOnElectricityBill.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnElectricityBill/obj/Debug/net8.0/ref/HandsOnElectricityBill.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/bin/Debug/net8.0/RealEstate
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/bin/Debug/net8.0/RealEstate.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/bin/Debug/net8.0/RealEstate.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/bin/Debug/net8.0/RealEstate.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/bin/Debug/net8.0/RealEstate.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/refint/RealEstate.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/RealEstate.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/RealEstate/obj/Debug/net8.0/ref/RealEstate.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/bin/Debug/net8.0/MergeSortedArray
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/bin/Debug/net8.0/MergeSortedArray.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/bin/Debug/net8.0/MergeSortedArray.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/bin/Debug/net8.0/MergeSortedArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/bin/Debug/net8.0/MergeSortedArray.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/refint/MergeSortedArray.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/MergeSortedArray.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/MergeSortedArray/obj/Debug/net8.0/ref/MergeSortedArray.dll

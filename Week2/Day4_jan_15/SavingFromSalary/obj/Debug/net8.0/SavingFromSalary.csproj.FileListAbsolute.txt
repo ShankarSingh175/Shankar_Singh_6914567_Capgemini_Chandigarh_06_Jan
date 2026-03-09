@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/bin/Debug/net8.0/SavingFromSalary
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/bin/Debug/net8.0/SavingFromSalary.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/bin/Debug/net8.0/SavingFromSalary.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/bin/Debug/net8.0/SavingFromSalary.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/bin/Debug/net8.0/SavingFromSalary.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/refint/SavingFromSalary.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/SavingFromSalary.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SavingFromSalary/obj/Debug/net8.0/ref/SavingFromSalary.dll

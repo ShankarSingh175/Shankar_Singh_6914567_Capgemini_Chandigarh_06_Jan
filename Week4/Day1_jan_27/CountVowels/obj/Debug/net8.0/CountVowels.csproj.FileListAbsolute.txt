@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/bin/Debug/net8.0/CountVowels
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/bin/Debug/net8.0/CountVowels.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/bin/Debug/net8.0/CountVowels.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/bin/Debug/net8.0/CountVowels.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/bin/Debug/net8.0/CountVowels.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/refint/CountVowels.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/CountVowels.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/CountVowels/obj/Debug/net8.0/ref/CountVowels.dll

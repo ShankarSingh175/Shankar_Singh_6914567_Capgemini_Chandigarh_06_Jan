@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/bin/Debug/net8.0/RemoveAndInsert
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/bin/Debug/net8.0/RemoveAndInsert.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/bin/Debug/net8.0/RemoveAndInsert.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/bin/Debug/net8.0/RemoveAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/bin/Debug/net8.0/RemoveAndInsert.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/refint/RemoveAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/RemoveAndInsert.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveAndInsert/obj/Debug/net8.0/ref/RemoveAndInsert.dll

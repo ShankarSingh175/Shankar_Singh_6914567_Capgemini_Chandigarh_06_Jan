@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/bin/Debug/net8.0/IndexofOFandTHE
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/bin/Debug/net8.0/IndexofOFandTHE.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/bin/Debug/net8.0/IndexofOFandTHE.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/bin/Debug/net8.0/IndexofOFandTHE.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/bin/Debug/net8.0/IndexofOFandTHE.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/refint/IndexofOFandTHE.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/IndexofOFandTHE.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/IndexofOFandTHE/obj/Debug/net8.0/ref/IndexofOFandTHE.dll

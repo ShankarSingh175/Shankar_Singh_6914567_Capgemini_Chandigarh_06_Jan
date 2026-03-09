@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/bin/Debug/net8.0/CountFrequency
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/bin/Debug/net8.0/CountFrequency.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/bin/Debug/net8.0/CountFrequency.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/bin/Debug/net8.0/CountFrequency.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/bin/Debug/net8.0/CountFrequency.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/refint/CountFrequency.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/CountFrequency.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/CountFrequency/obj/Debug/net8.0/ref/CountFrequency.dll

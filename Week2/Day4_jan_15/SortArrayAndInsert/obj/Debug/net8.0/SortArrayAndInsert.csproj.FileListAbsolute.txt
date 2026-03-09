@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/bin/Debug/net8.0/SortArrayAndInsert
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/bin/Debug/net8.0/SortArrayAndInsert.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/bin/Debug/net8.0/SortArrayAndInsert.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/bin/Debug/net8.0/SortArrayAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/bin/Debug/net8.0/SortArrayAndInsert.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/refint/SortArrayAndInsert.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/SortArrayAndInsert.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day4_jan_15/SortArrayAndInsert/obj/Debug/net8.0/ref/SortArrayAndInsert.dll

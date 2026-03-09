@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/bin/Debug/net8.0/BinaryToDecimal
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/bin/Debug/net8.0/BinaryToDecimal.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/bin/Debug/net8.0/BinaryToDecimal.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/bin/Debug/net8.0/BinaryToDecimal.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/bin/Debug/net8.0/BinaryToDecimal.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/refint/BinaryToDecimal.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/BinaryToDecimal.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/BinaryToDecimal/obj/Debug/net8.0/ref/BinaryToDecimal.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/bin/Debug/net8.0/CountRupees
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/bin/Debug/net8.0/CountRupees.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/bin/Debug/net8.0/CountRupees.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/bin/Debug/net8.0/CountRupees.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/bin/Debug/net8.0/CountRupees.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/refint/CountRupees.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/CountRupees.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/CountRupees/obj/Debug/net8.0/ref/CountRupees.dll

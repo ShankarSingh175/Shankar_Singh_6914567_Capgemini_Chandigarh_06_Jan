@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/bin/Debug/net8.0/ECommerce
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/bin/Debug/net8.0/ECommerce.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/bin/Debug/net8.0/ECommerce.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/bin/Debug/net8.0/ECommerce.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/bin/Debug/net8.0/ECommerce.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/refint/ECommerce.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ECommerce.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/ECommerce/obj/Debug/net8.0/ref/ECommerce.dll

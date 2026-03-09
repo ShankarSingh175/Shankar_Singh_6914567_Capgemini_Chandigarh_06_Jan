@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/bin/Debug/net8.0/SumOfFirstAndLast
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/bin/Debug/net8.0/SumOfFirstAndLast.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/bin/Debug/net8.0/SumOfFirstAndLast.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/bin/Debug/net8.0/SumOfFirstAndLast.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/bin/Debug/net8.0/SumOfFirstAndLast.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/refint/SumOfFirstAndLast.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/SumOfFirstAndLast.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFirstAndLast/obj/Debug/net8.0/ref/SumOfFirstAndLast.dll

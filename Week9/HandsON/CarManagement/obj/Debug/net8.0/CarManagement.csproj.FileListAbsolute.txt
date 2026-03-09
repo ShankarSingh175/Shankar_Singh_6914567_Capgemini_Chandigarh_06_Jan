@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/bin/Debug/net8.0/CarManagement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/bin/Debug/net8.0/CarManagement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/bin/Debug/net8.0/CarManagement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/bin/Debug/net8.0/CarManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/bin/Debug/net8.0/CarManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/refint/CarManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/CarManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/CarManagement/obj/Debug/net8.0/ref/CarManagement.dll

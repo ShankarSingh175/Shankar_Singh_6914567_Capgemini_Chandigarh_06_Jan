@@ -1,0 +1,15 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/bin/Debug/net8.0/HandsOnInvoiceUpdate
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/bin/Debug/net8.0/HandsOnInvoiceUpdate.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/bin/Debug/net8.0/HandsOnInvoiceUpdate.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/bin/Debug/net8.0/HandsOnInvoiceUpdate.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/bin/Debug/net8.0/HandsOnInvoiceUpdate.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/refint/HandsOnInvoiceUpdate.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/HandsOnInvoiceUpdate.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 5/HandsOnInvoiceUpdate/obj/Debug/net8.0/ref/HandsOnInvoiceUpdate.dll

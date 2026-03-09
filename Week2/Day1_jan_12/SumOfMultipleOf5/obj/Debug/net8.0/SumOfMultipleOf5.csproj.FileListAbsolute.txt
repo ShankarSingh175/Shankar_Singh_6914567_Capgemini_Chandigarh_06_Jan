@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/bin/Debug/net8.0/SumOfMultipleOf5
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/bin/Debug/net8.0/SumOfMultipleOf5.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/bin/Debug/net8.0/SumOfMultipleOf5.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/bin/Debug/net8.0/SumOfMultipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/bin/Debug/net8.0/SumOfMultipleOf5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/refint/SumOfMultipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/SumOfMultipleOf5.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfMultipleOf5/obj/Debug/net8.0/ref/SumOfMultipleOf5.dll

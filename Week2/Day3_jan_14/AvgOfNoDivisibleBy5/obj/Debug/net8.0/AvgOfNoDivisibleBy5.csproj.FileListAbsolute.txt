@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/bin/Debug/net8.0/AvgOfNoDivisibleBy5
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/bin/Debug/net8.0/AvgOfNoDivisibleBy5.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/bin/Debug/net8.0/AvgOfNoDivisibleBy5.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/bin/Debug/net8.0/AvgOfNoDivisibleBy5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/bin/Debug/net8.0/AvgOfNoDivisibleBy5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/refint/AvgOfNoDivisibleBy5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/AvgOfNoDivisibleBy5.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfNoDivisibleBy5/obj/Debug/net8.0/ref/AvgOfNoDivisibleBy5.dll

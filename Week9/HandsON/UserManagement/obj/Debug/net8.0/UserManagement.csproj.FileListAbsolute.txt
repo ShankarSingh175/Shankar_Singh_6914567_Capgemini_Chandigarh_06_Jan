@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/bin/Debug/net8.0/UserManagement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/bin/Debug/net8.0/UserManagement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/bin/Debug/net8.0/UserManagement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/bin/Debug/net8.0/UserManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/bin/Debug/net8.0/UserManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/refint/UserManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/UserManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserManagement/obj/Debug/net8.0/ref/UserManagement.dll

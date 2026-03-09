@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/bin/Debug/net8.0/NonRepeatingCharacter
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/bin/Debug/net8.0/NonRepeatingCharacter.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/bin/Debug/net8.0/NonRepeatingCharacter.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/bin/Debug/net8.0/NonRepeatingCharacter.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/bin/Debug/net8.0/NonRepeatingCharacter.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/refint/NonRepeatingCharacter.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/NonRepeatingCharacter.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/NonRepeatingCharacter/obj/Debug/net8.0/ref/NonRepeatingCharacter.dll

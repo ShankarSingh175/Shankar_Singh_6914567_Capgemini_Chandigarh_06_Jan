@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/bin/Debug/net8.0/SumOfFactors
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/bin/Debug/net8.0/SumOfFactors.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/bin/Debug/net8.0/SumOfFactors.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/bin/Debug/net8.0/SumOfFactors.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/bin/Debug/net8.0/SumOfFactors.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/refint/SumOfFactors.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/SumOfFactors.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SumOfFactors/obj/Debug/net8.0/ref/SumOfFactors.dll

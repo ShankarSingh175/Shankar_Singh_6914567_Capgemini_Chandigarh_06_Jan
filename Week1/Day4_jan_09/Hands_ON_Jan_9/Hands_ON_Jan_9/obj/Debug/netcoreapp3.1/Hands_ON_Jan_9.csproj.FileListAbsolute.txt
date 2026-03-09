@@ -1,0 +1,13 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9.runtimeconfig.dev.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/bin/Debug/netcoreapp3.1/Hands_ON_Jan_9.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day4_jan_09/Hands_ON_Jan_9/Hands_ON_Jan_9/obj/Debug/netcoreapp3.1/Hands_ON_Jan_9.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/bin/Debug/net8.0/LeapYear
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/bin/Debug/net8.0/LeapYear.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/bin/Debug/net8.0/LeapYear.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/bin/Debug/net8.0/LeapYear.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/bin/Debug/net8.0/LeapYear.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/refint/LeapYear.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/LeapYear.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/LeapYear/obj/Debug/net8.0/ref/LeapYear.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/bin/Debug/net8.0/AvgOfMutipleOf5
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/bin/Debug/net8.0/AvgOfMutipleOf5.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/bin/Debug/net8.0/AvgOfMutipleOf5.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/bin/Debug/net8.0/AvgOfMutipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/bin/Debug/net8.0/AvgOfMutipleOf5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/refint/AvgOfMutipleOf5.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/AvgOfMutipleOf5.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day3_jan_14/AvgOfMutipleOf5/obj/Debug/net8.0/ref/AvgOfMutipleOf5.dll

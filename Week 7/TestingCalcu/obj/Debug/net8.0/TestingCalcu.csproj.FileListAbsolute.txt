@@ -1,0 +1,15 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/bin/Debug/net8.0/TestingCalcu
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/bin/Debug/net8.0/TestingCalcu.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/bin/Debug/net8.0/TestingCalcu.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/bin/Debug/net8.0/TestingCalcu.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/bin/Debug/net8.0/TestingCalcu.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/refint/TestingCalcu.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/TestingCalcu.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 7/TestingCalcu/obj/Debug/net8.0/ref/TestingCalcu.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/bin/Debug/net8.0/Hands_On_Jan_10
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/bin/Debug/net8.0/Hands_On_Jan_10.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/bin/Debug/net8.0/Hands_On_Jan_10.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/bin/Debug/net8.0/Hands_On_Jan_10.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/bin/Debug/net8.0/Hands_On_Jan_10.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/refint/Hands_On_Jan_10.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/Hands_On_Jan_10.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week1/Day5_jan_10/Hands_On_Jan_10/obj/Debug/net8.0/ref/Hands_On_Jan_10.dll

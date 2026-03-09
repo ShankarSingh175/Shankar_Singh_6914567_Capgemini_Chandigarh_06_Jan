@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/bin/Debug/net8.0/HospitalManagement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/bin/Debug/net8.0/HospitalManagement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/bin/Debug/net8.0/HospitalManagement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/bin/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/bin/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/refint/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/HospitalManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/HospitalManagement/obj/Debug/net8.0/ref/HospitalManagement.dll

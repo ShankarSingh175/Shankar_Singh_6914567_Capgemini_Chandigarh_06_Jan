@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/bin/Debug/net8.0/RemoveDuplicateElements
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/bin/Debug/net8.0/RemoveDuplicateElements.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/bin/Debug/net8.0/RemoveDuplicateElements.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/bin/Debug/net8.0/RemoveDuplicateElements.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/bin/Debug/net8.0/RemoveDuplicateElements.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/refint/RemoveDuplicateElements.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/RemoveDuplicateElements.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week6/Day1_feb_09/RemoveDuplicateElements/obj/Debug/net8.0/ref/RemoveDuplicateElements.dll

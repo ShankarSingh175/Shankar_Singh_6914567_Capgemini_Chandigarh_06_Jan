@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/bin/Debug/net8.0/ProductCatalog
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/bin/Debug/net8.0/ProductCatalog.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/bin/Debug/net8.0/ProductCatalog.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/bin/Debug/net8.0/ProductCatalog.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/bin/Debug/net8.0/ProductCatalog.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/refint/ProductCatalog.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ProductCatalog.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/ProductCatalog/obj/Debug/net8.0/ref/ProductCatalog.dll

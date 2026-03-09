@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/bin/Debug/net8.0/Anagram
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/bin/Debug/net8.0/Anagram.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/bin/Debug/net8.0/Anagram.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/bin/Debug/net8.0/Anagram.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/bin/Debug/net8.0/Anagram.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/refint/Anagram.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/Anagram.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week4/Day1_jan_27/Anagram/obj/Debug/net8.0/ref/Anagram.dll

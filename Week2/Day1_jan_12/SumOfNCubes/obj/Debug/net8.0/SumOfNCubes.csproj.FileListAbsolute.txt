@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/bin/Debug/net8.0/SumOfNCubes
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/bin/Debug/net8.0/SumOfNCubes.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/bin/Debug/net8.0/SumOfNCubes.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/bin/Debug/net8.0/SumOfNCubes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/bin/Debug/net8.0/SumOfNCubes.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/refint/SumOfNCubes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/SumOfNCubes.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/SumOfNCubes/obj/Debug/net8.0/ref/SumOfNCubes.dll

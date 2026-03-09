@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/bin/Debug/net8.0/SalaryStory
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/bin/Debug/net8.0/SalaryStory.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/bin/Debug/net8.0/SalaryStory.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/bin/Debug/net8.0/SalaryStory.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/bin/Debug/net8.0/SalaryStory.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/refint/SalaryStory.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/SalaryStory.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day5_jan_16/SalaryStory/obj/Debug/net8.0/ref/SalaryStory.dll

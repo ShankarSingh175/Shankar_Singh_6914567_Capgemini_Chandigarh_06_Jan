@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/bin/Debug/net8.0/UserInheritance
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/bin/Debug/net8.0/UserInheritance.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/bin/Debug/net8.0/UserInheritance.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/bin/Debug/net8.0/UserInheritance.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/bin/Debug/net8.0/UserInheritance.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/refint/UserInheritance.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/UserInheritance.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week9/HandsON/UserInheritance/obj/Debug/net8.0/ref/UserInheritance.dll

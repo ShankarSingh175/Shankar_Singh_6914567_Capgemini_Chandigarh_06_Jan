@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Styled Data Table</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            padding: 40px;
+        }
+
+        .table-container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse; /* Important */
+        }
+
+        caption {
+            caption-side: top;
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        th, td {
+            padding: 12px 15px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #2c3e50;
+            color: white;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Alternate row colors */
+        tbody tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        /* Hover effect */
+        tbody tr:hover {
+            background-color: #d6eaf8;
+            cursor: pointer;
+            transition: 0.2s ease-in-out;
+        }
+
+        /* Responsive Table */
+        @media (max-width: 600px) {
+            th, td {
+                font-size: 14px;
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="table-container">
+        <table>
+            <caption>Student Grade Report</caption>
+
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Subject</th>
+                    <th>Marks</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>101</td>
+                    <td>Rahul Sharma</td>
+                    <td>Mathematics</td>
+                    <td>88</td>
+                    <td>A</td>
+                </tr>
+                <tr>
+                    <td>102</td>
+                    <td>Anjali Verma</td>
+                    <td>Computer Science</td>
+                    <td>92</td>
+                    <td>A+</td>
+                </tr>
+                <tr>
+                    <td>103</td>
+                    <td>Vikram Singh</td>
+                    <td>Physics</td>
+                    <td>76</td>
+                    <td>B+</td>
+                </tr>
+                <tr>
+                    <td>104</td>
+                    <td>Priya Mehta</td>
+                    <td>Chemistry</td>
+                    <td>81</td>
+                    <td>A</td>
+                </tr>
+                <tr>
+                    <td>105</td>
+                    <td>Aman Gupta</td>
+                    <td>English</td>
+                    <td>69</td>
+                    <td>B</td>
+                </tr>
+            </tbody>
+
+        </table>
+    </div>
+
+</body>
+</html>

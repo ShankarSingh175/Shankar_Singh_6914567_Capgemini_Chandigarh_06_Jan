@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F5B1E80C-B6E6-4989-BF82-A8E20E281DCE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hands__On__Jan__8 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hands_On_Jan_8/Question05.cs">
+    <Files>
+      <File FileName="Hands_On_Jan_8/Program.cs" />
+      <File FileName="Hands_On_Jan_8/Question01.cs" />
+      <File FileName="Hands_On_Jan_8/Question02.cs" />
+      <File FileName="Hands_On_Jan_8/Question03.cs" />
+      <File FileName="Hands_On_Jan_8/Question04.cs" />
+      <File FileName="Hands_On_Jan_8/Question05.cs" Line="22" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hands_On_Jan_8" expanded="True">
+            <Node name="Hands_On_Jan_8" expanded="True">
+              <Node name="Question05.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

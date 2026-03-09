@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{F3FBB842-3F8D-4015-83E1-FC2422366BBF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Hands__ON__Jan__9 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hands_ON_Jan_9/ElementMostNoOfTimes.cs">
+    <Files>
+      <File FileName="Hands_ON_Jan_9/Program.cs" />
+      <File FileName="Hands_ON_Jan_9/ArmstrongNo.cs" />
+      <File FileName="Hands_ON_Jan_9/Factorial.cs" />
+      <File FileName="Hands_ON_Jan_9/NumberOfDigits.cs" />
+      <File FileName="Hands_ON_Jan_9/AvgOfEven&amp;Odd.cs" />
+      <File FileName="Hands_ON_Jan_9/ArraySorting&amp;Multiplication.cs" />
+      <File FileName="Hands_ON_Jan_9/CompareArrayForGreatestElement.cs" />
+      <File FileName="Hands_ON_Jan_9/Multiply+veNumberArray.cs" />
+      <File FileName="Hands_ON_Jan_9/SumOfEvenDigits.cs" />
+      <File FileName="Hands_ON_Jan_9/SearchingElement.cs" />
+      <File FileName="Hands_ON_Jan_9/ElementMostNoOfTimes.cs" Line="25" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hands_ON_Jan_9" expanded="True">
+            <Node name="Hands_ON_Jan_9" expanded="True">
+              <Node name="ElementMostNoOfTimes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

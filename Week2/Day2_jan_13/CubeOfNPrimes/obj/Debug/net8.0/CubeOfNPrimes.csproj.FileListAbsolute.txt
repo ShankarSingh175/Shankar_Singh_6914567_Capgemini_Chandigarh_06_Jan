@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/bin/Debug/net8.0/CubeOfNPrimes
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/bin/Debug/net8.0/CubeOfNPrimes.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/bin/Debug/net8.0/CubeOfNPrimes.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/bin/Debug/net8.0/CubeOfNPrimes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/bin/Debug/net8.0/CubeOfNPrimes.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/refint/CubeOfNPrimes.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/CubeOfNPrimes.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CubeOfNPrimes/obj/Debug/net8.0/ref/CubeOfNPrimes.dll

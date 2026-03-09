@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/bin/Debug/net8.0/BankManagementSystem
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/bin/Debug/net8.0/BankManagementSystem.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/bin/Debug/net8.0/BankManagementSystem.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/bin/Debug/net8.0/BankManagementSystem.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/bin/Debug/net8.0/BankManagementSystem.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/refint/BankManagementSystem.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/BankManagementSystem.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week3/Day1_jan_20/BankManagementSystem/obj/Debug/net8.0/ref/BankManagementSystem.dll

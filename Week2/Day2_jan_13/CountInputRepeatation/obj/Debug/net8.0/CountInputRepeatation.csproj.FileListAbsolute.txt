@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/bin/Debug/net8.0/CountInputRepeatation
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/bin/Debug/net8.0/CountInputRepeatation.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/bin/Debug/net8.0/CountInputRepeatation.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/bin/Debug/net8.0/CountInputRepeatation.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/bin/Debug/net8.0/CountInputRepeatation.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/refint/CountInputRepeatation.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/CountInputRepeatation.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day2_jan_13/CountInputRepeatation/obj/Debug/net8.0/ref/CountInputRepeatation.dll

@@ -1,0 +1,14 @@
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/bin/Debug/net8.0/RemoveNegativeElement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/bin/Debug/net8.0/RemoveNegativeElement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/bin/Debug/net8.0/RemoveNegativeElement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/bin/Debug/net8.0/RemoveNegativeElement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/bin/Debug/net8.0/RemoveNegativeElement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/refint/RemoveNegativeElement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/RemoveNegativeElement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week2/Day1_jan_12/RemoveNegativeElement/obj/Debug/net8.0/ref/RemoveNegativeElement.dll
