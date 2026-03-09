@@ -134,3 +134,4 @@
 /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_09_March/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_09_March/MyMvcApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_09_March/MyMvcApp/obj/Debug/net8.0/MyMvcApp.csproj.Up2Date
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_09_March/MyMvcApp/obj/Debug/net8.0/MyMvcApp.sourcelink.json

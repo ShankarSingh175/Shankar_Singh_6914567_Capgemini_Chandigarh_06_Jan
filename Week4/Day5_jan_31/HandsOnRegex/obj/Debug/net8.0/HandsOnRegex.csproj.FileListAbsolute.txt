@@ -1,0 +1,15 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/bin/Debug/net8.0/HandsOnRegex
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/bin/Debug/net8.0/HandsOnRegex.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/bin/Debug/net8.0/HandsOnRegex.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/bin/Debug/net8.0/HandsOnRegex.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/bin/Debug/net8.0/HandsOnRegex.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/refint/HandsOnRegex.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/HandsOnRegex.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 4/Day 5/HandsOnRegex/obj/Debug/net8.0/ref/HandsOnRegex.dll
