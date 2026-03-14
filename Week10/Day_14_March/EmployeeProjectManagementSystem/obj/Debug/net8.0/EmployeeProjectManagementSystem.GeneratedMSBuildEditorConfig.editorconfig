@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeProjectManagementSystem
+build_property.RootNamespace = EmployeeProjectManagementSystem
+build_property.ProjectDir = /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Departments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVwYXJ0bWVudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/EmployeesPerDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0VtcGxveWVlc1BlckRlcGFydG1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Employees/ProjectsOfEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVzL1Byb2plY3RzT2ZFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Projects/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Projects/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Projects/EmployeesInProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvRW1wbG95ZWVzSW5Qcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvamVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_14_March/EmployeeProjectManagementSystem/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uvfidbekkr

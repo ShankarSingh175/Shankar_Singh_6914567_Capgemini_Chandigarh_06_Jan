@@ -1,0 +1,28 @@
+@{
+    var employees = ViewBag.Employees;
+}
+
+<h2>Create Project</h2>
+
+<form method="post">
+
+Project Title:
+
+<input type="text" name="Title" />
+
+<br><br>
+
+Assign Employees
+
+@foreach(var emp in employees)
+{
+<input type="checkbox" name="employeeIds" value="@emp.EmployeeId"/>
+@emp.Name
+<br>
+}
+
+<br>
+
+<button type="submit">Save</button>
+
+</form>

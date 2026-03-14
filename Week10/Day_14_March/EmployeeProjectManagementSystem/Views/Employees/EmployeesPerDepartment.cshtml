@@ -1,0 +1,20 @@
+@model IEnumerable<EmployeeProjectManagementSystem.Models.DepartmentEmployeeCount>
+
+<h2>Employees Per Department</h2>
+
+<table border="1">
+
+<tr>
+<th>Department</th>
+<th>Employee Count</th>
+</tr>
+
+@foreach(var item in Model)
+{
+<tr>
+<td>@item.Department</td>
+<td>@item.Count</td>
+</tr>
+}
+
+</table>

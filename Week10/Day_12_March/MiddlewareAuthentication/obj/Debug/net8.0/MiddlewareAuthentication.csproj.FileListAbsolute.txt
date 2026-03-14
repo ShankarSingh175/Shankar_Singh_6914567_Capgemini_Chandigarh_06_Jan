@@ -1,0 +1,62 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.staticwebassets.runtime.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.RazorAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.RazorAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.MiddlewareAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.build.MiddlewareAuthentication.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MiddlewareAuthentication.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MiddlewareAuthentication.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/bundle/MiddlewareAuthentication.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/projectbundle/MiddlewareAuthentication.bundle.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/refint/MiddlewareAuthentication.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/MiddlewareAuthentication/obj/Debug/net8.0/ref/MiddlewareAuthentication.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/appsettings.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.staticwebassets.runtime.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/bin/Debug/net8.0/MiddlewareAuthentication.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.RazorAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.RazorAssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.sourcelink.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.MiddlewareAuthentication.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.build.MiddlewareAuthentication.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MiddlewareAuthentication.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MiddlewareAuthentication.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/bundle/MiddlewareAuthentication.styles.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/scopedcss/projectbundle/MiddlewareAuthentication.bundle.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/refint/MiddlewareAuthentication.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/MiddlewareAuthentication.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_12_March/MiddlewareAuthentication/obj/Debug/net8.0/ref/MiddlewareAuthentication.dll

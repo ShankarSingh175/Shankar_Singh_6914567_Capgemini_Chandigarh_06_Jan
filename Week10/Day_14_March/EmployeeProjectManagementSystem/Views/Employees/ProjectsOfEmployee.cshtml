@@ -1,0 +1,18 @@
+@model IEnumerable<EmployeeProjectManagementSystem.Models.Project>
+
+<h2>Projects Assigned to Employee</h2>
+
+<table border="1">
+
+<tr>
+<th>Project Title</th>
+</tr>
+
+@foreach(var p in Model)
+{
+<tr>
+<td>@p.Title</td>
+</tr>
+}
+
+</table>

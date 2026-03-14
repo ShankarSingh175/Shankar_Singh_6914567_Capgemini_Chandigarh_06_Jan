@@ -1,0 +1,23 @@
+@model EmployeeProjectManagementSystem.Models.Department
+
+<h2>Edit Department</h2>
+
+<form method="post">
+
+<input type="hidden" asp-for="DepartmentId"/>
+
+<div class="form-group">
+
+<label>Department Name</label>
+
+<input class="form-control" asp-for="Name"/>
+
+</div>
+
+<br/>
+
+<button class="btn btn-success">Update</button>
+
+<a class="btn btn-secondary" href="/Departments">Back</a>
+
+</form>

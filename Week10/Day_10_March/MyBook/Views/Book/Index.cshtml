@@ -1,0 +1,139 @@
+@model List<BookModel>
+
+<div class="books-container">
+
+    <div class="header">
+        <h2 class="books-title">📚 Books List</h2>
+
+        <a asp-controller="Book" asp-action="AddBook" class="btn btn-success create-btn">
+            + Create New Book
+        </a>
+    </div>
+
+    <table class="books-table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Price</th>
+                <th style="text-align:center;">Actions</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.BookId</td>
+                <td>@book.BName</td>
+                <td>@book.Category</td>
+                <td class="price">₹@book.Price</td>
+
+                <td class="actions">
+                    <a asp-controller="Book"
+                       asp-action="EditBook"
+                       asp-route-id="@book.BookId"
+                       class="btn btn-edit">
+                        Edit
+                    </a>
+
+                    <a asp-controller="Book"
+                       asp-action="DeleteBook"
+                       asp-route-id="@book.BookId"
+                       class="btn btn-delete">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+</div>
+
+<style>
+
+.books-container{
+    width:80%;
+    margin:40px auto;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;
+}
+
+.books-title{
+    margin:0;
+    color:#333;
+}
+
+.create-btn{
+    padding:8px 14px;
+    text-decoration:none;
+}
+
+.books-table{
+    width:100%;
+    border-collapse:collapse;
+    box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+.books-table th{
+    background:#4CAF50;
+    color:white;
+    padding:12px;
+    text-align:left;
+}
+
+.books-table td{
+    padding:10px;
+    border-bottom:1px solid #ddd;
+}
+
+.books-table tr:nth-child(even){
+    background:#f9f9f9;
+}
+
+.books-table tr:hover{
+    background:#f1f1f1;
+}
+
+.price{
+    font-weight:bold;
+    color:#2e7d32;
+}
+
+.actions{
+    text-align:center;
+}
+
+.btn{
+    padding:6px 12px;
+    border-radius:4px;
+    text-decoration:none;
+    color:white;
+    font-size:14px;
+}
+
+.btn-edit{
+    background:#f0ad4e;
+}
+
+.btn-delete{
+    background:#d9534f;
+}
+
+.btn-edit:hover{
+    background:#ec971f;
+}
+
+.btn-delete:hover{
+    background:#c9302c;
+}
+
+</style>

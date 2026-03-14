@@ -1,0 +1,37 @@
+@model IEnumerable<EmployeeProjectManagementSystem.Models.Employee>
+
+<h2>Employees</h2>
+
+<a class="btn btn-primary mb-3" href="/Employees/Create">Create Employee</a>
+
+<table class="table table-bordered table-striped">
+
+<thead>
+<tr>
+<th>Name</th>
+<th>Department</th>
+<th>Actions</th>
+</tr>
+</thead>
+
+<tbody>
+
+@foreach(var emp in Model)
+{
+<tr>
+<td>@emp.Name</td>
+<td>@emp.Department?.Name</td>
+
+<td>
+<a class="btn btn-info btn-sm" href="/Employees/Details/@emp.EmployeeId">Details</a>
+
+<a class="btn btn-warning btn-sm" href="/Employees/Edit/@emp.EmployeeId">Edit</a>
+
+<a class="btn btn-danger btn-sm" href="/Employees/Delete/@emp.EmployeeId">Delete</a>
+</td>
+
+</tr>
+}
+
+</tbody>
+</table>

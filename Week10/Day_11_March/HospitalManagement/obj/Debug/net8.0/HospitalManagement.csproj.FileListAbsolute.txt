@@ -1,0 +1,779 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement.staticwebassets.runtime.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/HospitalManagement.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Azure.Core.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Azure.Identity.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Humanizer.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.ClientModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.CodeDom.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.AssemblyReference.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.HospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.build.HospitalManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HospitalManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HospitalManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/scopedcss/bundle/HospitalManagement.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/scopedcss/projectbundle/HospitalManagement.bundle.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/Hospital.2B9058E3.Up2Date
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/refint/HospitalManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/HospitalManagement.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/obj/Debug/net8.0/ref/HospitalManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 10/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/appsettings.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement.staticwebassets.runtime.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement.deps.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement.runtimeconfig.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Azure.Core.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Azure.Identity.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Humanizer.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Common.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.ClientModel.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.AssemblyReference.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cs
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.HospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.build.HospitalManagement.props
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HospitalManagement.props
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HospitalManagement.props
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/scopedcss/bundle/HospitalManagement.styles.css
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/scopedcss/projectbundle/HospitalManagement.bundle.scp.css
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/Hospital.2B9058E3.Up2Date
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/refint/HospitalManagement.dll
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/HospitalManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Downloads/HospitalManagement/obj/Debug/net8.0/ref/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/appsettings.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement.staticwebassets.runtime.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Azure.Core.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Azure.Identity.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Humanizer.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Common.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.ClientModel.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.AssemblyReference.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.RazorAssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.sourcelink.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.HospitalManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.build.HospitalManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.HospitalManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.HospitalManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/scopedcss/bundle/HospitalManagement.styles.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/scopedcss/projectbundle/HospitalManagement.bundle.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/Hospital.2B9058E3.Up2Date
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/refint/HospitalManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/HospitalManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week10/Day_11_March/HospitalManagement/obj/Debug/net8.0/ref/HospitalManagement.dll
