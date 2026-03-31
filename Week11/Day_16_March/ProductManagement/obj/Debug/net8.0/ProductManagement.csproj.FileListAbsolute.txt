@@ -1,0 +1,62 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.RazorAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.RazorAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement.staticwebassets.runtime.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/bin/Debug/net8.0/ProductManagement.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.ProductManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.build.ProductManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductManagement.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/scopedcss/bundle/ProductManagement.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/scopedcss/projectbundle/ProductManagement.bundle.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/refint/ProductManagement.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ProductManagement.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/ProductManagement/obj/Debug/net8.0/ref/ProductManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/appsettings.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement.staticwebassets.runtime.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/bin/Debug/net8.0/ProductManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.RazorAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.RazorAssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.sourcelink.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.ProductManagement.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.build.ProductManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductManagement.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/scopedcss/bundle/ProductManagement.styles.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/scopedcss/projectbundle/ProductManagement.bundle.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/refint/ProductManagement.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ProductManagement.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/ProductManagement/obj/Debug/net8.0/ref/ProductManagement.dll

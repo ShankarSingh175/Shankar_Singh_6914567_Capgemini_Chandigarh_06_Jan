@@ -1,0 +1,67 @@
+@page
+
+<h2 class="mb-4">📋 My Bookings</h2>
+
+<div id="bookings"></div>
+
+@section Scripts {
+<script>
+
+let token = localStorage.getItem("token");
+
+if (!token) {
+    alert("Please login first");
+    window.location.href = "/Login";
+}
+
+// Load bookings
+function loadBookings() {
+
+    fetch("http://localhost:5193/api/bookings", {
+        headers: {
+            "Authorization": "Bearer " + token
+        }
+    })
+    .then(res => res.json())
+    .then(data => {
+
+        let html = "";
+
+        data.forEach(b => {
+            html += `
+                <div class="card p-3 mb-2">
+                    <p><strong>Booking ID:</strong> ${b.id}</p>
+                    <p><strong>Event ID:</strong> ${b.eventId}</p>
+                    <p><strong>Seats:</strong> ${b.seatsBooked}</p>
+
+                    <button onclick="deleteBooking(${b.id})" class="btn btn-danger btn-sm">
+                        Cancel
+                    </button>
+                </div>
+            `;
+        });
+
+        document.getElementById("bookings").innerHTML = html;
+    });
+}
+
+// Delete booking
+function deleteBooking(id) {
+
+    fetch(`http://localhost:5193/api/bookings/${id}`, {
+        method: "DELETE",
+        headers: {
+            "Authorization": "Bearer " + token
+        }
+    })
+    .then(res => res.json())
+    .then(() => {
+        alert("Booking cancelled");
+        loadBookings();
+    });
+}
+
+loadBookings();
+
+</script>
+}

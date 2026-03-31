@@ -1,0 +1,206 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<!-- HERO SECTION -->
+
+<div class="container mt-4">
+
+<div class="p-5 mb-4 bg-light rounded-3 shadow">
+
+<div class="container-fluid py-5 text-center">
+
+<h1 class="display-4 fw-bold">
+
+🛒 E-Commerce Order Management System
+
+</h1>
+
+<p class="fs-5">
+
+Browse products, place orders, and track shipments easily.
+
+</p>
+
+<a asp-controller="Products"
+   asp-action="Index"
+   class="btn btn-primary btn-lg">
+
+Browse Products
+
+</a>
+
+<a asp-controller="Orders"
+   asp-action="MyOrders"
+   class="btn btn-success btn-lg ms-2">
+
+View My Orders
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- FEATURES SECTION -->
+
+<div class="container">
+
+<div class="row text-center">
+
+<div class="col-md-4">
+
+<div class="card shadow mb-4">
+
+<div class="card-body">
+
+<h4 class="card-title">
+
+📦 Products
+
+</h4>
+
+<p class="card-text">
+
+Explore available products|multiple categories.
+
+</p>
+
+<a asp-controller="Products"
+   asp-action="Index"
+   class="btn btn-outline-primary">
+
+View Products
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card shadow mb-4">
+
+<div class="card-body">
+
+<h4 class="card-title">
+
+📝 Orders
+
+</h4>
+
+<p class="card-text">
+
+Place new orders and manage existing ones.
+
+</p>
+
+<a asp-controller="Orders"
+   asp-action="Create"
+   class="btn btn-outline-success">
+
+Create Order
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card shadow mb-4">
+
+<div class="card-body">
+
+<h4 class="card-title">
+
+🚚 Shipping
+
+</h4>
+
+<p class="card-text">
+
+Track shipping status of your orders.
+
+</p>
+
+<a asp-controller="Orders"
+   asp-action="MyOrders"
+   class="btn btn-outline-warning">
+
+Track Orders
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ADMIN DASHBOARD SHORTCUT -->
+
+@if (User.IsInRole("Admin"))
+{
+
+<div class="container">
+
+<div class="card shadow mt-4">
+
+<div class="card-body text-center">
+
+<h4>
+
+⚙ Admin Dashboard
+
+</h4>
+
+<p>
+
+Manage products, categories, and shipments.
+
+</p>
+
+<a asp-controller="Admin"
+   asp-action="Dashboard"
+   class="btn btn-danger">
+
+Go to Dashboard
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+}
+
+<!-- FOOTER INFO -->
+
+<div class="container mt-5">
+
+<div class="text-center text-muted">
+
+<p>
+
+© 2026 E-Commerce Order Management System
+
+</p>
+
+</div>
+
+</div>

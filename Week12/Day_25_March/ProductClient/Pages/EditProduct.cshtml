@@ -1,0 +1,13 @@
+@page "{id:int}"
+@model EditProductModel
+
+<h2>Edit Product</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Product.Id" />
+
+    <input asp-for="Product.Name" />
+    <input asp-for="Product.Price" />
+
+    <button type="submit">Update</button>
+</form>

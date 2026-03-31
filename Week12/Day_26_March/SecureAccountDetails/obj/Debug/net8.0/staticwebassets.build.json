@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c4kwZnXdEUjytZkIWU/FvXkGev0jclHm5cPNPxfl+lY=",
+  "Source": "SecureAccountDetails",
+  "BasePath": "_content/SecureAccountDetails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

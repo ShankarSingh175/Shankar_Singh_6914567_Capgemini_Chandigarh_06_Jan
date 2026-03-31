@@ -1,0 +1,56 @@
+@model IEnumerable<ECommerceOrderManagement.Models.Order>
+
+<h2>My Orders</h2>
+
+<table class="table table-bordered">
+
+<thead>
+<tr>
+<th>Order ID</th>
+<th>Date</th>
+<th>Products</th>
+<th>Shipping Status</th>
+</tr>
+</thead>
+
+<tbody>
+
+@foreach (var order in Model)
+{
+<tr>
+
+<td>
+@order.OrderId
+</td>
+
+<td>
+@order.OrderDate.ToShortDateString()
+</td>
+
+<td>
+
+@foreach (var item in order.OrderItems)
+{
+<div>
+@item.Product.ProductName
+( Qty: @item.Quantity )
+</div>
+}
+
+</td>
+
+<td>
+
+@if (order.ShippingDetail != null)
+{
+@order.ShippingDetail.Status
+}
+
+</td>
+
+</tr>
+}
+
+</tbody>
+
+</table>

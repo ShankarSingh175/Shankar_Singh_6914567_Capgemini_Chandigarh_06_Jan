@@ -1,0 +1,86 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2 class="mb-4 text-center">🎉 Available Events</h2>
+
+<!-- Events Container -->
+<div id="eventsContainer" class="row"></div>
+
+<!-- Loading Spinner -->
+<div id="loading" class="text-center mt-5">
+    <div class="spinner-border text-primary"></div>
+    <p>Loading events...</p>
+</div>
+
+<!-- No Data Message -->
+<div id="noData" class="text-center mt-5 text-muted" style="display:none;">
+    <h4>No events available</h4>
+</div>
+
+@section Scripts {
+<script>
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    fetch("http://localhost:5193/api/events")
+    .then(response => response.json())
+    .then(data => {
+
+        document.getElementById("loading").style.display = "none";
+
+        let container = document.getElementById("eventsContainer");
+
+        if (data.length === 0) {
+            document.getElementById("noData").style.display = "block";
+            return;
+        }
+
+        data.forEach(event => {
+
+            let eventDate = new Date(event.date).toLocaleDateString();
+
+            container.innerHTML += `
+                <div class="col-md-4">
+                    <div class="card shadow-sm mb-4 border-0">
+
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">${event.title}</h5>
+
+                            <p class="card-text text-muted">
+                                ${event.description}
+                            </p>
+
+                            <p><b>📅 Date:</b> ${eventDate}</p>
+                            <p><b>📍 Location:</b> ${event.location}</p>
+
+                            <p>
+                                <b>🎟 Seats:</b>
+                                <span class="badge bg-success">
+                                    ${event.availableSeats}
+                                </span>
+                            </p>
+
+                            <a href="/Book?id=${event.id}" class="btn btn-dark w-100">
+                                Book Now
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            `;
+        });
+
+    })
+    .catch(error => {
+        document.getElementById("loading").innerHTML =
+            "<p class='text-danger'>Failed to load events</p>";
+        console.error(error);
+    });
+
+});
+
+</script>
+}

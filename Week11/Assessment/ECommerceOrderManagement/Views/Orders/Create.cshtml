@@ -1,0 +1,125 @@
+@model ECommerceOrderManagement.ViewModels.OrderCreateViewModel
+
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<h2>Create Order</h2>
+
+<form asp-action="Create">
+
+<div class="form-group">
+
+<label>Customer</label>
+
+<select asp-for="CustomerId"
+        class="form-control"
+        required>
+
+<option value="">
+-- Select Customer --
+</option>
+
+@foreach (var c in Model.Customers)
+{
+<option value="@c.CustomerId">
+@c.Email
+</option>
+}
+
+</select>
+
+</div>
+
+<br />
+
+<div class="form-group">
+
+<label>Product</label>
+
+<select asp-for="ProductId"
+        class="form-control"
+        required>
+
+<option value="">
+-- Select Product --
+</option>
+
+@foreach (var p in Model.Products)
+{
+<option value="@p.ProductId">
+@p.ProductName
+</option>
+}
+
+</select>
+
+</div>
+
+<br />
+
+<div class="form-group">
+
+<label>Quantity</label>
+
+<input asp-for="Quantity"
+       class="form-control"
+       required />
+
+</div>
+
+<hr />
+
+<h4>Shipping Details</h4>
+
+<div class="form-group">
+
+<label>Address</label>
+
+<input asp-for="Address"
+       class="form-control"
+       required />
+
+</div>
+
+<br />
+
+<div class="form-group">
+
+<label>City</label>
+
+<input asp-for="City"
+       class="form-control"
+       required />
+
+</div>
+
+<br />
+
+<div class="form-group">
+
+<label>Postal Code</label>
+
+<input asp-for="PostalCode"
+       class="form-control"
+       required />
+
+</div>
+
+<br />
+
+<button type="submit"
+        class="btn btn-primary">
+
+Create Order
+
+</button>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+
+Back to List
+
+</a>
+
+</form>

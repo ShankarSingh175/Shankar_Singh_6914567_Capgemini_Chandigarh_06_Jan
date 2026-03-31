@@ -1,0 +1,7 @@
+2026-03-27 15:01:46,641 INFO  ECommerceAPI.Helpers.Logger - Login attempt: test@gmail.com
+2026-03-27 15:01:55,798 INFO  ECommerceAPI.Helpers.Logger - Order started for user 1
+2026-03-27 15:01:55,799 INFO  ECommerceAPI.Helpers.Logger - Order created successfully
+2026-03-27 15:02:17,701 INFO  ECommerceAPI.Helpers.Logger - Payment request for order 1
+2026-03-27 15:02:17,701 ERROR ECommerceAPI.Helpers.Logger - Payment failed for order 1
+System.Exception: Payment timeout
+   at PaymentController.Pay(PaymentRequest request) in /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week12/Day_27_March/ECommerceAPI/Controllers/PaymentController.cs:line 22

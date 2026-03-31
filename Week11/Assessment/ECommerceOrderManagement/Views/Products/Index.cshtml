@@ -1,0 +1,212 @@
+@model IEnumerable<ECommerceOrderManagement.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="container mt-4">
+
+    <!-- PAGE HEADER -->
+
+    <div class="text-center mb-4">
+
+        <h2 class="fw-bold">
+            🛍 Product Catalog
+        </h2>
+
+        <p class="text-muted">
+            Browse products and manage inventory
+        </p>
+
+    </div>
+
+    <!-- FILTER + CREATE BAR -->
+
+    <div class="card shadow mb-4">
+
+        <div class="card-body">
+
+            <form method="get">
+
+                <div class="row align-items-end">
+
+                    <div class="col-md-4">
+
+                        <label class="form-label fw-semibold">
+
+                            Filter by Category
+
+                        </label>
+
+                        <select name="categoryId"
+                                asp-items="ViewBag.Categories"
+                                class="form-select">
+
+                            <option value="">
+                                All Categories
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="col-md-2">
+
+                        <button type="submit"
+                                class="btn btn-primary w-100">
+
+                            🔍 Filter
+
+                        </button>
+
+                    </div>
+
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <div class="col-md-3">
+
+                            <a asp-action="Create"
+                               class="btn btn-success w-100">
+
+                                ➕ Add New Product
+
+                            </a>
+
+                        </div>
+                    }
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <!-- PRODUCT GRID -->
+
+    <div class="row">
+
+@if (Model.Any())
+{
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-4 col-md-6">
+
+            <div class="card h-100 shadow-sm border-0 mb-4">
+
+                <div class="card-body">
+
+                    <!-- PRODUCT NAME -->
+
+                    <h5 class="card-title fw-bold">
+
+                        @item.ProductName
+
+                    </h5>
+
+                    <!-- CATEGORY BADGE -->
+
+                    <span class="badge bg-secondary mb-2">
+
+                        @item.Category?.CategoryName
+
+                    </span>
+
+                    <!-- PRICE -->
+
+                    <p class="card-text mt-2">
+
+                        <strong class="text-success">
+
+                            ₹ @item.Price
+
+                        </strong>
+
+                    </p>
+
+                    <!-- STOCK STATUS -->
+
+                    @if (item.Stock > 0)
+                    {
+                        <span class="badge bg-success">
+
+                            In Stock (@item.Stock)
+
+                        </span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">
+
+                            Out of Stock
+
+                        </span>
+                    }
+
+                </div>
+
+                <!-- ACTIONS -->
+
+                <div class="card-footer bg-white border-0">
+
+                    <div class="d-flex justify-content-between">
+
+                        <a asp-action="Details"
+                           asp-route-id="@item.ProductId"
+                           class="btn btn-outline-primary btn-sm">
+
+                            👁 View
+
+                        </a>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <div>
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.ProductId"
+                                   class="btn btn-outline-warning btn-sm">
+
+                                    ✏ Edit
+
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.ProductId"
+                                   class="btn btn-outline-danger btn-sm">
+
+                                    🗑 Delete
+
+                                </a>
+
+                            </div>
+                        }
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    }
+}
+else
+{
+    <!-- EMPTY STATE -->
+
+    <div class="col-12 text-center mt-4">
+
+        <div class="alert alert-warning">
+
+            ⚠ No products found.
+
+        </div>
+
+    </div>
+}
+
+    </div>
+
+</div>

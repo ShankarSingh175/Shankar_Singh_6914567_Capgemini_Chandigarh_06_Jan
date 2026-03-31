@@ -1,0 +1,35 @@
+@page
+@model ProductClient.Pages.ProductsModel
+
+<h2>Product Dashboard</h2>
+
+<!-- ✅ ADD PRODUCT FORM -->
+<h3>Add Product</h3>
+<form method="post">
+    <input type="text" name="Name" placeholder="Product Name" required />
+    <input type="number" name="Price" placeholder="Price" required />
+    <button type="submit">Add</button>
+</form>
+
+<hr />
+
+<!-- ✅ PRODUCT LIST -->
+<h3>All Products</h3>
+
+<ul>
+@foreach (var product in Model.Products)
+{
+    <li>
+        @product.Name - $@product.Price
+
+        <!-- Edit -->
+        <a asp-page="/EditProduct" asp-route-id="@product.Id">Edit</a>
+
+        <!-- Delete -->
+        <form method="post" asp-page-handler="Delete" style="display:inline;">
+            <input type="hidden" name="id" value="@product.Id" />
+            <button type="submit">Delete</button>
+        </form>
+    </li>
+}
+</ul>

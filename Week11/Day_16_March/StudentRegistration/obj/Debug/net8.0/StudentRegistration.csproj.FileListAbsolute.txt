@@ -1,0 +1,62 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration.staticwebassets.runtime.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/bin/Debug/net8.0/StudentRegistration.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.RazorAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.RazorAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.build.StudentRegistration.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudentRegistration.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudentRegistration.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/scopedcss/bundle/StudentRegistration.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/scopedcss/projectbundle/StudentRegistration.bundle.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/refint/StudentRegistration.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/StudentRegistration.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 11/StudentRegistration/obj/Debug/net8.0/ref/StudentRegistration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.AssemblyInfoInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.AssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.csproj.CoreCompileInputs.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.MvcApplicationPartsAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.RazorAssemblyInfo.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.RazorAssemblyInfo.cs
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.sourcelink.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/refint/StudentRegistration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/appsettings.Development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/appsettings.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration.staticwebassets.runtime.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration.deps.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration.runtimeconfig.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration.dll
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/bin/Debug/net8.0/StudentRegistration.pdb
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.StudentRegistration.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.build.StudentRegistration.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StudentRegistration.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StudentRegistration.props
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/scopedcss/bundle/StudentRegistration.styles.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/scopedcss/projectbundle/StudentRegistration.bundle.scp.css
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/StudentRegistration.genruntimeconfig.cache
+/Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week11/Day_16_March/StudentRegistration/obj/Debug/net8.0/ref/StudentRegistration.dll

@@ -1,0 +1,10 @@
+/Users/sanjubudhwar/Published/TransactionWebApp/TransactionWebApp
+/Users/sanjubudhwar/Published/TransactionWebApp/appsettings.Development.json
+/Users/sanjubudhwar/Published/TransactionWebApp/appsettings.json
+/Users/sanjubudhwar/Published/TransactionWebApp/TransactionWebApp.dll
+/Users/sanjubudhwar/Published/TransactionWebApp/TransactionWebApp.deps.json
+/Users/sanjubudhwar/Published/TransactionWebApp/TransactionWebApp.runtimeconfig.json
+/Users/sanjubudhwar/Published/TransactionWebApp/TransactionWebApp.pdb
+/Users/sanjubudhwar/Published/TransactionWebApp/System.Net.Http.Formatting.dll
+/Users/sanjubudhwar/Published/TransactionWebApp/Newtonsoft.Json.dll
+/Users/sanjubudhwar/Published/TransactionWebApp/Newtonsoft.Json.Bson.dll

@@ -1,0 +1,3 @@
+2026-03-27 15:02:17,701 ERROR ECommerceAPI.Helpers.Logger - Payment failed for order 1
+System.Exception: Payment timeout
+   at PaymentController.Pay(PaymentRequest request) in /Users/sanjubudhwar/Desktop/Capgemini_CU_Sec3_.NetWithAzure_Shankar_Singh/Week12/Day_27_March/ECommerceAPI/Controllers/PaymentController.cs:line 22

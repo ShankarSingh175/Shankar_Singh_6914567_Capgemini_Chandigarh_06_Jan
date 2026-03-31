@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ZfGLIWHCfS0hdp85FgNvcrcsWzavxSdYln54k9DZOM=",
+  "Source": "SecureWebAPI",
+  "BasePath": "_content/SecureWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

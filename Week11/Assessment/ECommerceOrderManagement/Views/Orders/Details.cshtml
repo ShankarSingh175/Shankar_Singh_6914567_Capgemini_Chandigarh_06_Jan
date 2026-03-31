@@ -1,0 +1,133 @@
+@model ECommerceOrderManagement.ViewModels.OrderViewModel
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2>Order Details</h2>
+
+<hr />
+
+<div>
+
+    <h4>Order Information</h4>
+
+    <dl class="row">
+
+        <dt class="col-sm-3">
+            Order ID
+        </dt>
+
+        <dd class="col-sm-9">
+            @Model.Order.OrderId
+        </dd>
+
+        <dt class="col-sm-3">
+            Customer
+        </dt>
+
+        <dd class="col-sm-9">
+            @Model.Order.Customer?.Name
+        </dd>
+
+        <dt class="col-sm-3">
+            Order Date
+        </dt>
+
+        <dd class="col-sm-9">
+            @Model.Order.OrderDate
+        </dd>
+
+    </dl>
+
+</div>
+
+<hr />
+
+<h4>Products</h4>
+
+<table class="table table-bordered">
+
+<thead>
+<tr>
+
+<th>Product</th>
+<th>Quantity</th>
+<th>Price</th>
+
+</tr>
+</thead>
+
+<tbody>
+
+@foreach (var item in Model.OrderItems)
+{
+<tr>
+
+<td>
+@item.Product?.ProductName
+</td>
+
+<td>
+@item.Quantity
+</td>
+
+<td>
+₹ @item.UnitPrice
+</td>
+
+</tr>
+}
+
+</tbody>
+
+</table>
+
+<hr />
+
+<h4>Shipping Details</h4>
+
+<dl class="row">
+
+<dt class="col-sm-3">
+Address
+</dt>
+
+<dd class="col-sm-9">
+@Model.ShippingDetail?.Address
+</dd>
+
+<dt class="col-sm-3">
+City
+</dt>
+
+<dd class="col-sm-9">
+@Model.ShippingDetail?.City
+</dd>
+
+<dt class="col-sm-3">
+Postal Code
+</dt>
+
+<dd class="col-sm-9">
+@Model.ShippingDetail?.PostalCode
+</dd>
+
+<dt class="col-sm-3">
+Status
+</dt>
+
+<dd class="col-sm-9">
+@Model.ShippingDetail?.Status
+</dd>
+
+</dl>
+
+<hr />
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+
+Back to List
+
+</a>
